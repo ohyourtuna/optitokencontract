@@ -442,8 +442,6 @@ contract OPTIToken is AbstractToken {
 
 	event Burn(address target, uint256 _value);
 
-
-
 	/**
 	 * when accidentally send other tokens are refunded
 	 */
