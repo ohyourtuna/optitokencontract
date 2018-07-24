@@ -10,7 +10,7 @@ pragma solidity ^0.4.24;
  */
 
 
-/*
+/* 
  * Safe Math Smart Contract. 
  * https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/contracts/math/SafeMath.sol
  */
